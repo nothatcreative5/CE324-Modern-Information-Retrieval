@@ -14,3 +14,10 @@ Fine-tuning BERT: We experimented with fine-tuning BERT, both with and without f
 IR Search in Different Categories: We implemented an Information Retrieval (IR) system that allowed users to search for papers within specific categories.
 
 Clustering with K-means: After retrieving search results, we applied the K-means clustering algorithm to group similar papers together.
+
+## Assignment 3
+Crawling papers from semanticScholar and searching on their titles and abstracts.
+
+Calculating the page rank and hub score for different papers and authors respectively.
+
+Design of a very simple recommender system based on the methods of content based and collaberative filtering.
